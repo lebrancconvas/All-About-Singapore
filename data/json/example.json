@@ -1,0 +1,20 @@
+[
+  {
+    "player_id": "1",
+    "name": "Jonathan",
+    "class": "Warrior",
+    "level": "10"
+  },
+  {
+    "player_id": "2",
+    "name": "Glendar",
+    "class": "White Mage",
+    "level": "7"
+  },
+  {
+    "player_id": "3",
+    "name": "Linda",
+    "class": "Theft",
+    "level": "20"
+  }
+]
